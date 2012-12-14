@@ -31,8 +31,8 @@ Just add these lines
 ```
 
 ## Credits
-Based on article http://www.tekritisoftware.com/android-ntlm-authentication
-Uses jcifs from SAMBA project
+* Based on article http://www.tekritisoftware.com/android-ntlm-authentication
+* Uses jcifs from SAMBA project
 
 ## License
 
